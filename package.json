@@ -1,0 +1,19 @@
+{
+  "name": "4_1_l_raner",
+  "version": "1.0.0",
+  "description": "This is an example of a full stack web application.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sneaKyLem/4_1_l_raner.git"
+  },
+  "author": "Lemuel Raner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sneaKyLem/4_1_l_raner/issues"
+  },
+  "homepage": "https://github.com/sneaKyLem/4_1_l_raner#readme"
+}
